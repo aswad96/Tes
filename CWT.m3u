@@ -363,7 +363,6 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 #https://livestream.zazerconer.workers.dev/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 #https://ythls.armelin.one/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
 #https://mantul.biz.id:443/inetwork/gayanet12/25349.ts
-http://mantul.biz.id:8888/00nud58/250425/25349.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/duniaanak.png" group-title="Kids",Dunia Anak
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -432,14 +431,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/upinipin.png" group-title="Kids",UPIN IPIN
 #https://mantul.biz.id:443/inetwork/gayanet12/19132.ts
-http://mantul.biz.id:8888/00nud58/250425/19132.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/doraemon.png" group-title="Kids",DORAEMON
 #https://mantul.biz.id:443/inetwork/gayanet12/20164.ts
-http://mantul.biz.id:8888/00nud58/250425/20164.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tomjerry.png" group-title="Kids",Tom & Jerry
-http://mantul.biz.id:8888/00nud58/250425/20397.ts
+#http://mantul.biz.id:8888/00nud58/250425/20397.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tomjerry.png" group-title="Kids",Tom & Jerry
 #http://user.scalecdn.co:8080/live/832396166/1982148236/511676.m3u8
@@ -450,7 +447,7 @@ http://mantul.biz.id:8888/00nud58/250425/20397.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mrbeanclassic.png" group-title="Kids",Mr. Bean Classic
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mrbean.png" group-title="Kids",Mr. Bean Animated
-http://mantul.biz.id:8888/00nud58/250425/20396.ts
+#http://mantul.biz.id:8888/00nud58/250425/20396.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/omnom.png" group-title="Kids",OmNom
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
@@ -735,7 +732,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/warkopdki.png" group-title="Movies",Warkop DKI
 #https://mantul.biz.id:443/inetwork/gayanet12/21250.ts|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://mantul.biz.id:8888/00nud58/250425/21250.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
