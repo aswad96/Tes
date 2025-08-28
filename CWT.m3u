@@ -436,7 +436,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #https://mantul.biz.id:443/inetwork/gayanet12/20164.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tomjerry.png" group-title="Kids",Tom & Jerry
-#http://mantul.biz.id:8888/00nud58/250425/20397.ts
+http://mantul.biz.id:8888/00nud58/250425/20397.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tomjerry.png" group-title="Kids",Tom & Jerry
 #http://user.scalecdn.co:8080/live/832396166/1982148236/511676.m3u8
