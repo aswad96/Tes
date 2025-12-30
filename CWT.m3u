@@ -33,12 +33,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 
 #EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/TRANS7.png" group-title="TV Nasional",TRANS 7
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JHuw9tHJ1k9YnYsvjmMaUw","kid":"xZ1m2/WSRemxTLR4YsRWtw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/SCTV.png" group-title="TV Nasional",SCTV
 #https://mooncang.my.id/api/vidio/ch.m3u8?id=204&code=sctv
@@ -110,9 +112,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|user-agent="Mozilla/5.0 (W
 #EXTINF:-1 tvg-id="MOJI" tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/MOJI.png" group-title="TV Nasional",MOJI
 #https://mooncang.my.id/api/vidio/ch.m3u8?id=206&code=moji
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
@@ -129,13 +131,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd|referer=https://ww
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
-
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/BTV.png" group-title="TV Nasional",BTV
 #https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="CNN.id" tvg-name="CNN INDONESIA" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CNNINDONESIA.png" group-title="TV Nasional",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8|user-agent="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0" Referer="https://www.transtv.co.id/"
@@ -193,7 +194,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA TODAY" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/SEATODAY.png" group-title="TV Nasional",SEA TODAY
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
@@ -219,14 +220,15 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/jawapos.png" group-title="TV Nasional",JAWAPOS TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
 
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/DAAITV.png" group-title="TV Nasional",DAAI TV
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/DAAITV/sa_dash/DAAITV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -271,27 +273,22 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/nick.png" group-title="Kids",Nickelodeon Dub Indo
 
-#EXTINF:-1 tvg-id="Cartoon Network (HD).sg" tvg-name="Cartoon Network (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV//CARTOONNETWORK.png" group-title="Kids",Cartoon Network EN
-#https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#EXTINF:-1 tvg-id="Cartoon Network (HD).sg" tvg-name="Cartoon Network (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV//CARTOONNETWORK.png" group-title="Kids",Cartoon Network
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8|user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network (HD).sg" tvg-name="Cartoon Network (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CARTOONNETWORK.png" group-title="Kids",Cartoon Network ᶜᵘᵇᵐᵘ
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito (HD).sg" tvg-name="Cartoonito (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/cartoonito2.png" group-title="Kids",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
-#https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
@@ -334,9 +331,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #https://stream-cdn.mncnow.id/live/eds/KidsChannel/sa_dash/KidsChannel.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Kids-HD/sa_dash/Kids-HD.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mentaritv.jpg" group-title="Kids",Mentari TV
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/mentaritv.jpg" group-title="Kids",Mentari TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://mooncang.my.id/api/vidio/ch.m3u8?id=8237
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000152/1024.m3u8﻿ 
+#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mentaritv/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/horee.png" group-title="Kids",Horee!
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -344,10 +346,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #https://mooncang.my.id/api/vidio/ch.m3u8?id=6397&code=horee
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 #EXTINF:-1 tvg-id="HipHipHoree.id" tvg-name="Hip Hip Horee!" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/hiphoree.png" group-title="Kids",Hip Hip Horee!
 #https://mooncang.my.id/api/vidio/ch.m3u8?id=7052&code=hip-hip-horee
@@ -365,11 +371,9 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 #https://mantul.biz.id:443/inetwork/gayanet12/25349.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/duniaanak.png" group-title="Kids",Dunia Anak
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QUJ/SLzk/6KtG0NdkZDBmQ","kid":"JOY0JPomTOubxiFcD+hg5g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/funplanet.png" group-title="Kids",Fun Planet
@@ -398,9 +402,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=l
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash/My-Kids.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/davincikids.png" group-title="Kids",Da Vinci Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"W4gJxMzy7kO6oXyeCm+9sA","kid":"/zOcbKciSo2TvUh+RVE7PQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
 #https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8?c (noclearkey)
@@ -436,7 +440,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #https://mantul.biz.id:443/inetwork/gayanet12/20164.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tomjerry.png" group-title="Kids",Tom & Jerry
-http://mantul.biz.id:8888/00nud58/250425/20397.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tomjerry.png" group-title="Kids",Tom & Jerry
 #http://user.scalecdn.co:8080/live/832396166/1982148236/511676.m3u8
@@ -480,21 +483,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 #https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
-http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv"
+#http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv"
 
-#EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/WARNER-TV.png" group-title="Movies",Warner TV ᴵⁿᵈᶦʰᵒᵐᵉ
+#EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/WARNER-TV.png" group-title="Movies",Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#http://iptvid.my.id/avc/jony/12345/warner.m3u8
-
-#EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/WARNER-TV.png" group-title="Movies",Warner TV ᶜᵘᵇᵐᵘ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
@@ -510,50 +505,20 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-name="CINEMAX (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CINEMAX.png" group-title="Movies",Cinemax ᶜᵘᵇᵐᵘ
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-name="CINEMAX (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CINEMAX.png" group-title="Movies",Cinemax
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-name="HBO HD.sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBO.png" group-title="Movies",HBO ᶜᵘᵇᵐᵘ
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-name="HBO HD.sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBO.png" group-title="Movies",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-name="HBO Family (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBOFAMILY.png" group-title="Movies",HBO Family ᶜᵘᵇᵐᵘ
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-name="HBO Family (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBOFAMILY.png" group-title="Movies",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-name="HBO Hits (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBOHITS.png" group-title="Movies",HBO Hits ᶜᵘᵇᵐᵘ
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-name="HBO Hits (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBOHITS.png" group-title="Movies",HBO Hits
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-name="HBO Signature (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBOSIGNATURE.png" group-title="Movies",HBO Signature ᶜᵘᵇᵐᵘ
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-name="HBO Signature (HD).sg" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HBOSIGNATURE.png" group-title="Movies",HBO Signature
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
@@ -581,8 +546,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/BIOSKOPINDONESIA.png" group-title="Movies",Bioskop Indonesia
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8 (noclearkey)
 
 
@@ -623,7 +588,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 
 #EXTINF:-1 tvg-id="CinemaWorldHD.Id" tvg-name="Cinema World" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CINEMA-WORLD.png" group-title="Movies",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FJ+4tTv6eNtyQUisYowX6A","kid":"HpJAWmfUTWOwZVwT+yk/8w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/playlist.m3u8
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/CinemaWorld/sa_dash/CinemaWorld.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -662,7 +628,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/hitsnow.png" group-title="Movies",HITS Now
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
@@ -681,13 +651,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="ONE" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/ONE.png" group-title="Movies",ONE
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/SetOne/sa_dash/SetOne.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="ONE" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/ONE.png" group-title="Movies",ONE
+#https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/SetOne/sa_dash/SetOne.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="K-PLUSHD.Id" tvg-name="Kplus" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/KPLUS.png" group-title="Movies",Kplus
+#EXTINF:-1 tvg-id="K-PLUSHD.Id" tvg-name="Kplus" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/KPLUS.png" group-title="Movies",Kplus
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd 
+#https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv"
+#https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #http://rr.dens.tv/h/h08/index.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
@@ -728,7 +702,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/warkopdki.png" group-title="Movies",Warkop DKI
 #https://mantul.biz.id:443/inetwork/gayanet12/21250.ts|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -772,35 +746,45 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/ind
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/cat-knowledge.png",
 
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="Animal Planet Southeast Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/ANIMALPLANET.png" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="Animal Planet Southeast Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/ANIMALPLANET.png" group-title="Knowledge",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="DiscoveryChannelIndonesia.id" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/DISCOVERY-CHANNEL.png" group-title="Knowledge",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannelIndonesia.id" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/DISCOVERY-CHANNEL.png" group-title="Knowledge",Discovery Channel
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
+#http://203.77.246.58:4500/udp/239.1.5.26:5000
+#http://203.77.246.58:4500/udp/239.1.2.224:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/DISCOVERYASIA.png" group-title="Knowledge",Discovery Asia
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/DISCOVERYASIA.png" group-title="Knowledge",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/BBC-EARTH.png" group-title="Knowledge",BBC Earth
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/BBC-EARTH.png" group-title="Knowledge",BBC Earth
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/gtrekker.png" group-title="Knowledge",Global Trekker
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/gtrekker.png" group-title="Knowledge",Global Trekker
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HISTORY.png" group-title="Knowledge",History
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/HISTORY.png" group-title="Knowledge",History
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Historynew/sa_dash/Historynew.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -810,14 +794,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
 
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CRIMEINVESTIGATION.png" group-title="Knowledge",Crime Investigation
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/CRIMEINVESTIGATION.png" group-title="Knowledge",Crime Investigation
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/outdoor.png" group-title="Knowledge",Outdoor Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/outdoor.png" group-title="Knowledge",Outdoor Channel
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -825,23 +809,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/LOVENATURE.png" group-title="Knowledge",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/lovenature-new.png" group-title="Knowledge",Love Nature
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/lovenature/sa_dash/lovenature.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoWild/sa_dash/NatGeoWild.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/LOVENATURE4K.png" group-title="Knowledge",Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/lovenature4k-new.png" group-title="Knowledge",Love Nature 4K
 #https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #https://bamus-eng-roku.amagi.tv/playlist.m3u8
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/NationalGeographicWild.png" group-title="Knowledge",National Geographic Wild
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoWild/sa_dash/NatGeoWild.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://173.225.246.25:8889/udp/mtm/239.203.20.74:4003
-
-#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/NationalGeographic.png" group-title="Knowledge",National Geographic
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoChannel/sa_dash/NatGeoChannel.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://173.225.246.25:8889/udp/239.203.20.73:4003
+#https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://d2qmwprplnkhvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k6dzbuqjplph1/Love_Nature_4K.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Biznet Adventure 4K" tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="Knowledge",Biznet Adventure 4K
 #http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -849,28 +826,24 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=349ac1b8d5f2493d97ffd88d364de38c:92e769c36e60dcd8573c08fd9c27b9bf
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CGTNDOCUMENTARY.png" group-title="Knowledge",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/CGTNDOCUMENTARY.png" group-title="Knowledge",CGTN Documentary
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/dmax.png" group-title="Knowledge",DMAX Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/dmax.png" group-title="Knowledge",DMAX Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="OUTSIDE TV" tvg-logo="https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png" group-title="Knowledge",OUTSIDE TV
 #https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/SMITHSONIANCHANNEL.png" group-title="Knowledge",Smithsonian Channel
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/SMITHSONIANCHANNEL.png" group-title="Knowledge",Smithsonian Channel
 #https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="PEOPLE ARE AWESOME" tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="Knowledge",PEOPLE ARE AWESOME
 #https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/nasatv.png" group-title="Knowledge",NASA TV
-#https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
 
 ```````` Music ````````
 
@@ -883,7 +856,8 @@ http://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/inde
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/PRAMBORS.png" group-title="Music",Prambors Channel
-https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/aquarius.png" group-title="Music",Aquarius Musikindo
 #https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43"
@@ -917,49 +891,47 @@ https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/hitradio1.png" group-title="Music",Hits Radio 1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mic.png" group-title="Music",Music Information Channel
-https://v2.siar.us/mic/live/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://mic.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/MUSIKINDONESIA.png" group-title="Music",Musik Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gZO327Phxi3dMFRtOq+dQA","kid":"4JLFpy80REGXVrambF5k2g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/nagaswarapop.png" group-title="Music",Nagaswara Pop
-#https://livestream.zazerconer.workers.dev/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
-#https://cikgusuraya.tech/YtLive/index.php?id=Is03gZsBeq0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/nagaswaradut.png" group-title="Music",Nagaswara Dangdut
-#https://kister.net/mpl/yt2m3u8?w=@nagaswarafmbgr|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://ythls-v2.onrender.com/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
-#https://livestream.zazerconer.workers.dev/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
-#https://ythls.armelin.one/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
-#https://cikgusuraya.tech/YtLive/index.php?id=Gvfr_OoTp1E
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/ikonser.jpg" group-title="Music",I-Konser
-#https://cdn09jtedge.indihometv.com/joss/130/ikonser720/playlist.m3u8
-#https://cdn09jtedge.indihometv.com/joss/130/ikonser/chunklist_w455504243_b944100_sleng.m3u8
-#https://streaming.indihometv.com/joss/130/ikonser720/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/maleo.png" group-title="Music",Maleo TV
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/popmusik.png" group-title="Music",POP Musik
-#https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
+#EXTINF:-0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/mtv90.png" group-title="Music",MTV 90's
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
+#https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1c47039932145ee82ffd5ba663fdf3f:b11a040f74a5e81b06b5f771cf1f7567
-
-#EXTINF:-0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mtv90.png" group-title="Music",MTV 90's
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCShopSmart/sa_dash/MNCShopSmart.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
+#EXTINF:-0 tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/mtv2000.png" group-title="Music",MTV 2000's
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92acc43956cf494fb989d30fe087364f:73bb4869e9f1e2cb9995ee225dda4b7a
 
-#EXTINF:-0 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mtvlive.png" group-title="Music",MTV Live
+#EXTINF:-0 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/mtvlive.png" group-title="Music",MTV Live
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MTV/sa_dash/MTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/b26eb25311954fcb8ece0c1923c6cce2/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/b26eb25311954fcb8ece0c1923c6cce2/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mtvhits.png",MTV Hits
 http://iptv.prosto.tv:7000/ch126/video.m3u8
@@ -1130,9 +1102,10 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26 
-https://atemeshield1-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-name="BBC World News Asia " tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/bbcworld.png" group-title="News",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1142,12 +1115,15 @@ https://atemeshield1-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-id="BloombergTVAsiaPacific.hk" tvg-name="Bloomberg TV Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/bloombergtvasia.png" group-title="News",Bloomberg TV Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0d67e9e2641468d9daf3182c25bd40c:84663ccbdeba441f88c63d8573269fa1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Bloomberg/sa_dash/Bloomberg.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37386
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
@@ -1176,11 +1152,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8|user-agent="Mozilla/5.0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTINF:-1 tvg-id="CNA.Sg" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/CNA.png" group-title="News",CNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb0dd5a64a3c45e086cb23f7f9649fbc:d68ee78a9b1703da869a983b57d95c60
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/ChannelNewsAsianow/sa_dash/ChannelNewsAsianow.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/ChannelNewsAsianow/sa_dash/ChannelNewsAsianow.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/ChannelNewsAsia/sa_dash/ChannelNewsAsia.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1201,10 +1179,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cnbcasia/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/CNNInternational/sa_dash/CNNInternational.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44003e0bf3cc4cfa8a35cead51e34d42:a46e0bee874435aeb96fcac1177275a1
@@ -1222,16 +1201,21 @@ https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd|referer=https://ww
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://av-ch-cdn.mncnow.id/live/eds/EuroNews/sa_dash/EuroNews.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
+https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/foxnews.png" group-title="News",Fox News Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash/FoxNews.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://av-ch-cdn.mncnow.id/live/eds/FoxNews/sa_dash/FoxNews.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/FRANCE24.png" group-title="News",France 24 English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1281,95 +1265,138 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/in
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/cat-lifeent.png",
 
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC Southeast Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/TLC.png" group-title="Lifestyle & Entertainment",TLC
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC Southeast Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/TLC.png" group-title="Lifestyle & Entertainment",TLC
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+#http://203.77.246.58:4500/udp/239.1.5.22:5000
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/AFN.png" group-title="Lifestyle & Entertainment",Asian Food Network
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/AFN.png" group-title="Lifestyle & Entertainment",Asian Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/HGTV.png" group-title="Lifestyle & Entertainment",HGTV Asia
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/HGTV.png" group-title="Lifestyle & Entertainment",HGTV Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+#http://203.77.246.58:4500/udp/239.1.5.12:5000
+#http://203.77.246.58:4500/udp/239.1.2.238:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d83df80b9af34e219404dea6bf7efd41:46dbfee377ea972b3e5914cbf6aa6122
 
-#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/ARIRANG.png" group-title="Lifestyle & Entertainment",Arirang World
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/ARIRANG.png" group-title="Lifestyle & Entertainment",Arirang World
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Arirang/sa_dash/Arirang.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-name="Lifestyle & Fashion" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/okezone.png" group-title="Lifestyle & Entertainment",Okezone TV
+#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-name="Lifestyle & Fashion" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/okezone.png" group-title="Lifestyle & Entertainment",Okezone TV
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
 
-#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/LIFETIME.png" group-title="Lifestyle & Entertainment",Lifetime Asia
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/LIFETIME.png" group-title="Lifestyle & Entertainment",Lifetime Asia
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Lifetime/sa_dash/Lifetime.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/allplay.png" group-title="Lifestyle & Entertainment",Allplay Ent
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#http://iptvid.my.id/avc/kemal/kemalaswad/useeprime.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 
-#EXTINF:-1 tvg-id="VisionPrime.Id" tvg-name="Vision Prime" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/visionprime.png" group-title="Lifestyle & Entertainment",Vision Prime
+#EXTINF:-1 tvg-id="VisionPrime.Id" tvg-name="Vision Prime" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/visionprime.png" group-title="Lifestyle & Entertainment",Vision Prime
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/foodtravel.png" group-title="Lifestyle & Entertainment",Food Travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/foodtravel.png" group-title="Lifestyle & Entertainment",Food Travel
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTV/sa_dash/OKTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTVnow/sa_dash/OKTVnow.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/firstlifestyle.png" group-title="Lifestyle & Entertainment",First Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/firstlifestyle.png" group-title="Lifestyle & Entertainment",First Lifestyle
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/maxstream.png" group-title="Lifestyle & Entertainment",Maxstream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/firsthighlight.jpg" group-title="Lifestyle & Entertainment",First Highlight
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
+https://atemecdnbalancer-voe.sysln.id/live/eds/firsthighlight/mediampd/firsthighlight.mpd
 
-#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/drama.png",Drama Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/firstwarrior.png" group-title="Lifestyle & Entertainment",First Warrior
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77555ed22f924e4b98620319e1de3739:2876649ccd9840346084c565d25f8f6b
+https://atemeshield1-voe.sysln.id/live/eds/FirstWarriorsHD/mediampd/FirstWarriorsHD.mpd
+
+#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/oxy.png",Oxygen
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8|referer=https://oxygentv.id/&origin=https://oxygentv.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/biznetlife.png",Biznet Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=ZGw2r-CvzSlCW2-mTyu97hp8bHZXc9LY43O5moeKhLM1ppWpWrh6ZoIHFlbN75DU
+
+#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/biznetadv.png",Biznet Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
+
+#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/anw.png",American Ninja Warrior
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884523/hls/master.m3u8?ads.xumo_channelId=88884523
+
+#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/drama.png",Drama Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3d84e08dcc6409d8ebf89594982e5c7:e0b067be2c9bb8f817c8cc5ad90d8504
-https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/insert.png",!nsert
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
-https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
+#EXTINF:-1 group-title="Lifestyle & Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/insert.png",!nsert
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/transvision.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
 #https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/130/insert720/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RANS ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/rans.png" group-title="Lifestyle & Entertainment",RANS ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="RANS ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/rans.png" group-title="Lifestyle & Entertainment",RANS ENTERTAINMENT
 #https://mooncang.my.id/api/vidio/ch.m3u8?id=8241&code=rans-channel
+#https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php?id=8241&=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
-#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/citramuslim.png" group-title="Lifestyle & Entertainment",Citra Muslim
+#EXTINF:-1 tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/citramuslim.png" group-title="Lifestyle & Entertainment",Citra Muslim
 #https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6678.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/dfc.png" group-title="Lifestyle & Entertainment",Dens Food Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/dfc.png" group-title="Lifestyle & Entertainment",Dens Food Channel
 https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv"
 
-#EXTINF:-1 tvg-id="EatNGo.id" tvg-name="Eat & Go" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/Eat&Go.png" group-title="Lifestyle & Entertainment",Eat & Go ᶜᵘᵇᵐᵘ
+#EXTINF:-1 tvg-id="EatNGo.id" tvg-name="Eat & Go" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/Eat&Go.png" group-title="Lifestyle & Entertainment",Eat & Go ᶜᵘᵇᵐᵘ
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1381,29 +1408,15 @@ https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856fd0d66d017034201
 #https://cdn09jtedge.indihometv.com/joss/134/eatgo720/index.m3u8
 #https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
 
-#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/DUNIALAIN.png" group-title="Lifestyle & Entertainment",Dunia Lain
+#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/DUNIALAIN.png" group-title="Lifestyle & Entertainment",Dunia Lain
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="GEMHD.Id" tvg-name="GEM" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/GEM.png" group-title="Lifestyle & Entertainment",GEM
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
-
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="ONE" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/ONE.png" group-title="Lifestyle & Entertainment",ONE
-https://dsgtq5sngxkde.cloudfront.net/live/eds/SetOne/sa_dash/SetOne.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#EXTINF:-1 tvg-id="K-PLUSHD.Id" tvg-name="Kplus" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/KPLUS.png" group-title="Lifestyle & Entertainment",Kplus
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-#http://210.210.155.37/uq2663/h/h08/index.m3u8|user-agent="YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1"
-#http://rr.dens.tv/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
-#http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/nadookorean.png" group-title="Lifestyle & Entertainment",NaDoo Korean
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/nadookorean.png" group-title="Lifestyle & Entertainment",NaDoo Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 #http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
@@ -1412,14 +1425,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 
-#EXTINF:-1 tvg-id="Entertainment.id" tvg-name="Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/ent.png" group-title="Lifestyle & Entertainment",MNC Entertainment
+#EXTINF:-1 tvg-id="Entertainment.id" tvg-name="Entertainment" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/ent.png" group-title="Lifestyle & Entertainment",MNC Entertainment
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 
-#EXTINF:-1 tvg-id="Ie.id" tvg-name="Ie" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/celebrities.png" group-title="Lifestyle & Entertainment",Celebrities TV
+#EXTINF:-1 tvg-id="Ie.id" tvg-name="Ie" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/celebrities.png" group-title="Lifestyle & Entertainment",Celebrities TV
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
@@ -1427,106 +1440,100 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tv2.png" group-title="Lifestyle & Entertainment",RTM TV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/tv2.png" group-title="Lifestyle & Entertainment",RTM TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2|Referer="https://rtmklik.rtm.gov.my/
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd|user-agent="Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML\, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer="https://rtm-player.glueapi.io/"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/okeytv.png" group-title="Lifestyle & Entertainment",OKEY TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/okeytv.png" group-title="Lifestyle & Entertainment",OKEY TV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3|Referer="https://rtmklik.rtm.gov.my/
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1|Referer="https://rtm-player.glueapi.io/"
 
-#EXTINF:-1 tvg-id="" tvg-name="M Shop Signature" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mshops.png" group-title="Lifestyle & Entertainment",M Shop Signature
+#EXTINF:-1 tvg-id="" tvg-name="M Shop Signature" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/mshops.png" group-title="Lifestyle & Entertainment",M Shop Signature
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCShop/sa_dash/MNCShop.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
  
-#EXTINF:-1 tvg-id="" tvg-name="M Shop Super Sale!" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/mshopss.png" group-title="Lifestyle & Entertainment",M Shop Super Sale!
+#EXTINF:-1 tvg-id="" tvg-name="M Shop Super Sale!" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/mshopss.png" group-title="Lifestyle & Entertainment",M Shop Super Sale!
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCShopSmart/sa_dash/MNCShopSmart.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="Techstorm" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/TECHSTORM.png" group-title="Lifestyle & Entertainment",TechStorm
+#EXTINF:-1 tvg-id="Techstorm" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/TECHSTORM.png" group-title="Lifestyle & Entertainment",TechStorm
 #https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/01.m3u8
 #https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 #http://tvlive.my.id:25461/live/ab/ab/445.m3u8
 #https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 
+#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-name="ABC Australia Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/abcaustralia.png" group-title="Lifestyle & Entertainment",ABC Australia Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
-
-#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-name="ABC Australia Asia" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/abcaustralia.png" group-title="Lifestyle & Entertainment",ABC Australia Asia
+#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
+#EXTINF:-1 tvg-id="TV5MONDEASIE.Id" tvg-name="TV5Monde Asie" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/tv5monde.jpg" group-title="Lifestyle & Entertainment",TV5Monde Asie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6935d1a7c21abca8907b1a7b63f2d2c9:1842c9b39c3558bb4c7dbb6e400561aa
+#KODIPROP:inputstream.adaptive.license_key=8e1901f646584b92af0a1a4406ffce23:7d1ca6e0f4f0d3d1a57c74204e273d6c
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/TV5now/sa_dash/TV5now.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/TV5/sa_dash/TV5.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h312/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv
+#https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
-#EXTINF:-1 tvg-id="AnhuiTV.Id" tvg-name="Anhui TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/anhui.png" group-title="Lifestyle & Entertainment",Anhui TV
+#EXTINF:-1 tvg-id="AnhuiTV.Id" tvg-name="Anhui TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/anhui.png" group-title="Lifestyle & Entertainment",Anhui TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a73e886f584bbb959821fd97eaaa31:357e360c301c4f67862c46588545067d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://av-ch-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
 
+#EXTINF:-1 tvg-id="HunanTV.Id" tvg-name="Hunan TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/hunan.png" group-title="Lifestyle & Entertainment",Hunan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e9df1ff194224dd922a4ee50a083ea8:1f822977efb4700dfef3aef29ce53d98
-
-#EXTINF:-1 tvg-id="HunanTV.Id" tvg-name="Hunan TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/hunan.png" group-title="Lifestyle & Entertainment",Hunan TV
+#KODIPROP:inputstream.adaptive.license_key=cf09955f788c43349b677e15bbbc287f:74c70dbe1c0a3d367aab3356d54ccb64
+https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
-https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/HunanTV/sa_dash/HunanTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://av-ch-cdn.mncnow.id/live/eds/HunanTV/sa_dash/HunanTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
+#EXTINF:-1 tvg-id="JiangsuTV.Id" tvg-name="Jiangsu TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/jiangsu.png" group-title="Lifestyle & Entertainment",Jiangsu TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab3b56e3b5bd35ee40d1f18a8e2a73f0:1ae67b4eeeb450fd430e3540694abc6a
-
-#EXTINF:-1 tvg-id="JiangsuTV.Id" tvg-name="Jiangsu TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/jiangsu.png" group-title="Lifestyle & Entertainment",Jiangsu TV
+#KODIPROP:inputstream.adaptive.license_key=5ee5f4313ab54bce9f93cb166ea9d685:010f5ee14b27407c3691f73356ff32b1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
-https://atemecdnbalancer-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
 
+#EXTINF:-1 tvg-id="ShanghaiDragonTV.Id" tvg-name="Shanghai Dragon TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/dragon.png" group-title="Lifestyle & Entertainment",Shanghai Dragon TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5b643fdc1b2cb4684bd859f699dce2c:4605d2990f4b1d7c4049cdd83529f3a7
-
-#EXTINF:-1 tvg-id="ShanghaiDragonTV.Id" tvg-name="Shanghai Dragon TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/dragon.png" group-title="Lifestyle & Entertainment",Shanghai Dragon TV
+#KODIPROP:inputstream.adaptive.license_key=24312e82bb4d44d3a94f98c0a1bb4443:7f4272e8205159a54a1ec5db818b8576
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
-https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="TV5MONDEASIE.Id" tvg-name="TV5Monde Asie" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tv5monde.jpg" group-title="Lifestyle & Entertainment",TV5Monde Asie
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/TV5now/sa_dash/TV5now.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://av-ch-cdn.mncnow.id/live/eds/TV5now/sa_dash/TV5now.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/TV5/sa_dash/TV5.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h312/02.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43" Referer="http://dens.tv
-#https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/chinesedrama.png" group-title="Lifestyle & Entertainment",Chinese Drama
+#https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd|referer=https://www.indihometv.com&user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://WahyuIPTV.short.gy/ChineseDrama.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/main/LogoTV/tvbxinghe.png" group-title="Lifestyle & Entertainment",TVB Xing He
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/tvbxinghe.png" group-title="Lifestyle & Entertainment",TVB Xing He
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 
 #EXTINF:-1 tvg-id="XingKongTV.Id" tvg-name="Xing Kong TV" tvg-logo="https://raw.githubusercontent.com/aswad96/kemal/refs/heads/main/LogoTV/xingkong.png" group-title="Lifestyle & Entertainment",Xing Kong TV
-#https://av-ch-cdn.mncnow.id/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/XingKongTV/sa_dash/XingKongTV.mpd|Referer="https://www.visionplus.id/"&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
